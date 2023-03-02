@@ -1,0 +1,4 @@
+Everybody is present
+This is Python class
+End of write-up
+

@@ -1,0 +1,4 @@
+Accept fullnames, emails and passwords from users using input() function and 
+save them to a list of dictionaries. 
+
+

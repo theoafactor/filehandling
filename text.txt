@@ -1,0 +1,4 @@
+1. create file of any type
+2. Write to a file
+3. Delete files
+4. Change directory
